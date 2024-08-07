@@ -1,1 +1,1 @@
-readme 추가
+readme 추가 수정
